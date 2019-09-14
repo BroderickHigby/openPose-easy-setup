@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/brody/workspace/cmake-3.15.3/Tests/RunCMake/pseudo_cpplint.c
+stdio.h
+-
+string.h
+-
+

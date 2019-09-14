@@ -1,0 +1,13 @@
+# Target labels
+ openpose_lib
+# Source files and their labels
+/home/brody/workspace/openpose_build/CMakeFiles/openpose_lib
+/home/brody/workspace/openpose_build/CMakeFiles/openpose_lib.rule
+/home/brody/workspace/openpose_build/CMakeFiles/openpose_lib-complete.rule
+/home/brody/workspace/openpose_build/caffe/src/openpose_lib-stamp/openpose_lib-install.rule
+/home/brody/workspace/openpose_build/caffe/src/openpose_lib-stamp/openpose_lib-mkdir.rule
+/home/brody/workspace/openpose_build/caffe/src/openpose_lib-stamp/openpose_lib-download.rule
+/home/brody/workspace/openpose_build/caffe/src/openpose_lib-stamp/openpose_lib-update.rule
+/home/brody/workspace/openpose_build/caffe/src/openpose_lib-stamp/openpose_lib-patch.rule
+/home/brody/workspace/openpose_build/caffe/src/openpose_lib-stamp/openpose_lib-configure.rule
+/home/brody/workspace/openpose_build/caffe/src/openpose_lib-stamp/openpose_lib-build.rule
